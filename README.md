@@ -75,16 +75,19 @@ $db['default'] = array(
 );
 4. 실행
 Apache 서버를 재시작하여 프로젝트를 실행합니다:
+
 bash
 코드 복사
 systemctl restart httpd
 브라우저에서 https://seonggeun.shop를 열어 서비스를 확인합니다.
+
 라이센스
 씨아이보드 프로젝트는 CodeIgniter를 기반으로 하며, 해당 라이센스에 따라 사용 가능합니다. 상세한 내용은 씨아이보드 라이센스 페이지를 참조하세요.
 
 리소스 및 참고 자료
-CodeIgniter: https://codeigniter.com
-Bootstrap: https://getbootstrap.com
-jQuery: https://jquery.com
-Let's Encrypt: https://letsencrypt.org
-위 내용을 README.md 파일로 저장하면 프로젝트의 개요와 설치 방법을 명확히 알릴 수 있습니다. 추가로 원하는 내용이 있다면 말씀해주세요! 😊
+CodeIgniter
+Bootstrap
+jQuery
+Let's Encrypt
+결과
+위 내용을 README.md 파일로 저장하면 깔끔하게 GitHub에서 보기 좋게 출력됩니다. 추가적으로 개선하거나 추가할 내용이 있다면 말씀해주세요! 😊
